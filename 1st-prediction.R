@@ -1,9 +1,7 @@
 #####################################
 #      Intro to ML Training - R      #
-# Please come back for updated file #
 #####################################
 
-# Script 1 - Video 5
 
 # Set the working directory
 
